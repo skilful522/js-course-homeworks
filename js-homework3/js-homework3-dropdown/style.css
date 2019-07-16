@@ -1,0 +1,11 @@
+*{
+    font-family: "Comic Sans MS";
+    font-size: 1.1em;
+}
+form {
+    text-align: center;
+}
+#list {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
