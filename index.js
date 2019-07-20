@@ -1,27 +1,16 @@
 const http = require('http');
 const fs = require('fs');
-const url = require('url');
-
-const port = process.env.PORT || 3000;
-
-const readFile = (url, response) => {
-    fs.readFile(url, 'utf8', (err, data) => {
-        if (err) {
-            console.error(err);
-            response.statusCode = 204;
-            response.end(JSON.stringify(err));
-        } else {
-            console.log(url);
-            response.writeHead(200);
-            response.end(data);
-        }
-    });
-};
 
 const server = http.createServer(function (request, response) {
-    const path = url.parse(request.url, true).pathname.replace(/^\/+|\/+$/g, '');
-    readFile(path, response);
+    console.log(request.method, request.url)
+    let content = '';
+    if (request.url == '/') {
+        content = fs.readFileSync('index.html', 'utf8');
+    } else if (request.url == '/style.css') {
+        content = fs.readFileSync('style.css', 'utf8');
+    }
+    response.end(content);
 });
 
-server.listen(port);
-console.log(`server started on ${port} port`);
+server.listen(process.env.PORT || 3000);
+console.log('server started!');
