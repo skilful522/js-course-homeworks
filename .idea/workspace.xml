@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d77501ad-ff5d-47e0-88c5-20eb30d7777e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/js-homework1-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-homework2-task(1,2,3)/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-homework1-task" beforeDir="false" afterPath="$PROJECT_DIR$/js-homework1-task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-homework1-task/.idea/js-task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/js-homework1-task/.idea/js-homework1-task.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js-homework1-task/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/js-homework1-task/.idea/modules.xml" afterDir="false" />
@@ -19,20 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="510">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -46,11 +40,21 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -61,16 +65,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/homework.html" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/homework.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js-homework2-task(1,2,3)/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="236" />
+    <option name="y" value="130" />
     <option name="width" value="683" />
     <option name="height" value="768" />
   </component>
@@ -125,12 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563233017561</updated>
       <workItem from="1563233018684" duration="2536000" />
-      <workItem from="1563250395339" duration="707000" />
+      <workItem from="1563250395339" duration="1418000" />
+      <workItem from="1563282732443" duration="669000" />
+      <workItem from="1563613146278" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3243000" />
+    <option name="totallyTimeSpent" value="5403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -186,14 +193,28 @@
     <entry file="file://$PROJECT_DIR$/js-homework2-task(1,2,3)/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js-homework1-task/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js-homework3-slider/index.html" />
     <entry file="file://$PROJECT_DIR$/js-homework3-tabset/index.html" />
     <entry file="file://$PROJECT_DIR$/js-homwork3-popup/index.js" />
     <entry file="file://$PROJECT_DIR$/js-homwork3-popup/index.html" />
     <entry file="file://$PROJECT_DIR$/js-homework3-dropdown/index.js" />
+    <entry file="file://$PROJECT_DIR$/js-homework1-task/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js-homework3/js-homework3-slider/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js-homework2-task(1,2,3)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -201,17 +222,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
