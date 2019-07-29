@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77501ad-ff5d-47e0-88c5-20eb30d7777e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework2/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1" beforeDir="false" afterPath="$PROJECT_DIR$/homework1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1/.idea/js-task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/.idea/js-homework1-task.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2" beforeDir="false" afterPath="$PROJECT_DIR$/homework2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -56,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="768" />
@@ -83,6 +84,17 @@
               <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeworks" type="462c0819:PsiDirectoryNode" />
               <item name="homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="homework3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="homework3" type="462c0819:PsiDirectoryNode" />
+              <item name="homework3.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,22 +155,25 @@
       <workItem from="1563233018684" duration="2536000" />
       <workItem from="1563250395339" duration="1418000" />
       <workItem from="1563282732443" duration="669000" />
-      <workItem from="1563613146278" duration="5698000" />
+      <workItem from="1563613146278" duration="6355000" />
+      <workItem from="1563887999452" duration="602000" />
+      <workItem from="1563900094978" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10321000" />
+    <option name="totallyTimeSpent" value="11608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24776785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118303575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homework1/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -282,7 +290,14 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
