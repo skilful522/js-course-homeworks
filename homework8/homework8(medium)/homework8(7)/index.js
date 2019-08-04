@@ -17,31 +17,30 @@ function addValue(input, array, map) {
     }
     input.value = "";
 }
-function setHistory(array, input, map) {
-    input.value = array[(array.length - 1) - i];
-    console.log(map.get(input));
-    console.log("i =" + i + " value=" + array[i] + "length = " + array.length);
-    if (i === array.length - 1 || array.length === 1) {
-        i = [0];
-    } else i++;
+function setHistory(array, input) {
+    if (i === 0){
+        i = array.length;
+    }
+    input.value = array[i - 1];
+    i--;
 }
 
 firstInput.onkeydown = function (e) {
     switch (e.keyCode) {
         case 37:
-            setHistory(firstArray, firstInput, map, i);
+            setHistory(firstArray, firstInput);
     }
 };
 secondInput.onkeydown = function (e) {
     switch (e.keyCode) {
         case 37:
-            setHistory(secondArray, secondInput, map, i);
+            setHistory(secondArray, secondInput);
     }
 };
 thirdInput.onkeydown = function (e) {
     switch (e.keyCode) {
         case 37:
-            setHistory(thirdArray, thirdInput, map, i);
+            setHistory(thirdArray, thirdInput);
     }
 };
 

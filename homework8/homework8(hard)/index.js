@@ -28,7 +28,6 @@ function moveLeft(array, input) {
     }
     input.value = array[i - 1];
     i--;
-    return left;
 }
 
 function moveRight(array, input) {
@@ -38,7 +37,6 @@ function moveRight(array, input) {
     }
     input.value = array[i];
     i++;
-    return right;
 }
 
 firstInput.onkeydown = function (e) {
