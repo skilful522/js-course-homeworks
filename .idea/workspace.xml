@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d77501ad-ff5d-47e0-88c5-20eb30d7777e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework8/homework8(hard)/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework8/homework8(hard)/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework8/homework8(medium)/homework8(7)/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework8/homework8(medium)/homework8(7)/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
@@ -30,6 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -81,7 +81,11 @@
       <workItem from="1563613146278" duration="6355000" />
       <workItem from="1563887999452" duration="602000" />
       <workItem from="1563900094978" duration="28000" />
-      <workItem from="1564839759568" duration="38705000" />
+      <workItem from="1564839759568" duration="49345000" />
+      <workItem from="1565075331305" duration="17635000" />
+      <workItem from="1565261870557" duration="175000" />
+      <workItem from="1565590444207" duration="1552000" />
+      <workItem from="1565684487942" duration="466000" />
     </task>
     <servers />
   </component>
@@ -93,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
